@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Le-dev-du-coin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Le-dev-du-coin/Le-dev-du-coin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Hi, I’m @Le-dev-du-coin  
+- 👀 I’m a developer based in Mali with expertise in Python (Django, Flask), Kotlin, React, and RESTful APIs. I’m passionate about creating impactful projects that solve real-world problems, especially in education and administration. Currently, I’m working on a SaaS platform to help students in Mali find the best schools abroad and streamline their application process.  
+- 🌱 I’m currently learning React to build maintainable and scalable frontend applications. I’m also exploring how to integrate AI algorithms to enhance decision-making in my projects.  
+- 💞️ I’m looking to collaborate on projects that leverage technology to create social impact, particularly in Africa. I’m open to partnerships in Python/Django-based SaaS, innovative educational platforms, and API-driven solutions.  
+- 📫 How to reach me: [Your Email/LinkedIn/Twitter Handle Here].
